@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>devops-1</finalName>
+    <finalName>bhujji-01</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
