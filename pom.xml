@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>bhujji-15</finalName>
+    <finalName>bhujji-16</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
