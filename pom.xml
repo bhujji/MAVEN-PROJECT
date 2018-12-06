@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>KCR-1</finalName>
+    <finalName>KCR-2</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
