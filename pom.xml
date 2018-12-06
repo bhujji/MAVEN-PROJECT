@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>bhujji-01</finalName>
+    <finalName>KCR</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
