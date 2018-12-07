@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>joker-4</finalName>
+    <finalName>joker-5</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
