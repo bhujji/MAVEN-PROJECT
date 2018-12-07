@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>JOB-01</finalName>
+    <finalName>abc</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
