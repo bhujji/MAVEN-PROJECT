@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>u-1</finalName>
+    <finalName>u-2</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
