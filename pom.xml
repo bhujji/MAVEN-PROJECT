@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>bhujji</finalName>
+    <finalName>maven</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
