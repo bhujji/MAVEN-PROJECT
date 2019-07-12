@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>tomc</finalName>
+    <finalName>tomcat</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
