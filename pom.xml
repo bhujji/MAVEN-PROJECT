@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>bhu1</finalName>
+    <finalName>bhui1</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
